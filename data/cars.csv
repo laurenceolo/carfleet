@@ -1,0 +1,14 @@
+model;horsePower;year
+# Тестовый автопарк
+Toyota Camry;150;2018
+Lada Vesta;106;2020
+BMW M5;625;2021
+Kia Rio;123;2017
+Volkswagen Polo;110;2019
+Tesla Model S;670;2022
+Mercedes-Benz E200;197;2016
+Hyundai Solaris;123;2015
+Ford Mustang GT;450;2019
+УАЗ Патриот;150;2021
+Audi A6;245;2020
+Porsche 911 Carrera;385;2023
